@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-autopdf
 Version:	1.0
-Release:	3
+Release:	4
 Summary:	Conversion of graphics to pdfLaTeX-compatible formats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autopdf
