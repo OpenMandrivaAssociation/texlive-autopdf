@@ -1,12 +1,12 @@
-# revision 28125
+# revision 32377
 # category Package
 # catalog-ctan /macros/latex/contrib/autopdf
-# catalog-date 2012-10-30 20:17:59 +0100
+# catalog-date 2013-12-10 19:56:36 +0100
 # catalog-license lppl1.2
-# catalog-version 1.0
+# catalog-version 1.1
 Name:		texlive-autopdf
-Version:	1.0
-Release:	5
+Version:	1.1
+Release:	1
 Summary:	Conversion of graphics to pdfLaTeX-compatible formats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autopdf
@@ -36,7 +36,7 @@ that the LaTeX run starts with write18 enabled.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/latex/autopdf/autopdf.sty
-%doc %{_texmfdistdir}/doc/latex/autopdf/README
+%doc %{_texmfdistdir}/doc/latex/autopdf/README.txt
 %doc %{_texmfdistdir}/doc/latex/autopdf/autopdf.pdf
 #- source
 %doc %{_texmfdistdir}/source/latex/autopdf/autopdf.dtx
