@@ -3,7 +3,7 @@ Version:	32377
 Release:	2
 Summary:	Conversion of graphics to pdfLaTeX-compatible formats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autopdf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/autopdf
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autopdf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autopdf.doc.r%{version}.tar.xz
